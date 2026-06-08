@@ -1,8 +1,7 @@
 ---
-school: School 1
-summary: Degree or Certificate Program
-startDate: 2020-01-01
-endDate: 2020-12-31
+school: Acts Computer College
+summary: Bachelor of Science in Information Technology
+Date: 2013-2017
 tags:
   [
     "Skill 1",
